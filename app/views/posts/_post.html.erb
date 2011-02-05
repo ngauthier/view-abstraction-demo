@@ -1,0 +1,7 @@
+<div class='post' id='<%= dom_id post %>'>
+  <h2 class="title"><%= link_to post.title, post %></h2>
+  <h3 class="date"><%= post.created_at.strftime('%B %d, %Y') %></h3>
+  <p class="body"><%= post.body %></p>
+  <%= link_to "Edit", edit_post_path(post) %>
+  <%= button_to "Delete", post, :confirm => 'Are you sure?', :method => :delete %>
+</div>
