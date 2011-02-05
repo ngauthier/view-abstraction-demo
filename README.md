@@ -12,4 +12,5 @@ Based on the blog post:
 ## Things to look at
 
 test/test\_helper.rb
+
 test/integration/post\_test.rb
