@@ -2,7 +2,7 @@
 
 Based on the blog post:
 
-(link coming soon)
+[http://www.ngauthier.com/2011/02/view-abstraction-in-integration-tests_05.html](http://www.ngauthier.com/2011/02/view-abstraction-in-integration-tests_05.html)
 
 ## Usage
 
